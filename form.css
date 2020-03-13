@@ -1,0 +1,16 @@
+.peter{
+    vertical-align: middle;
+    margin: 5px 10px 5px 5;
+    background-color: fff;
+    border:1px solid #ddd;
+    padding: 10px;
+}
+label{
+    margin:  5px 10px 5px 0px;
+}
+
+#send {
+    font:bold;
+    background-color: blue;
+    color: black;
+}
